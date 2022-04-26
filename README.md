@@ -1,0 +1,2 @@
+# git_reposErvins
+repozitorijs_majas_darbiem
